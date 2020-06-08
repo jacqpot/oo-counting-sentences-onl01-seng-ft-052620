@@ -2,7 +2,8 @@ require 'pry'
 
 class String
   
-  def initialize(string)
+  def sentence?(string)
+    sting.end_with(".")
     
   end
   
