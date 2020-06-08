@@ -1,6 +1,13 @@
 require 'pry'
 
-
+class String
+  
+  def initialize(string)
+    
+  end
+  
+  
+end
 
 
 
